@@ -1,2 +1,2 @@
-# thexy.github.io
+# XY
 personal page
