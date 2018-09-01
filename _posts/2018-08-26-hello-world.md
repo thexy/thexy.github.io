@@ -1,6 +1,8 @@
 ---
-title: Hello World
+title: Hello world
 ---
+
+# 这个博客的第一篇文章
 
 今天是2018年8月26日，利用Github Page建立了这个博客，主要的目的是记下来自己的一些想法和经历，帮助将来的自己回忆。
 
